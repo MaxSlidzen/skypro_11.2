@@ -6,3 +6,4 @@ def get_upper_sting(value):
 def get_title_string(value):
     """Возвращает строку с первой заглавной буквой"""
     return value.title
+# Фикс багов
